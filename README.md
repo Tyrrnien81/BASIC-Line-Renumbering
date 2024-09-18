@@ -27,7 +27,7 @@ Example Usage
 >30 READ B1, B2
 
 - Run the program:
->\>java Project5 [input-file] [start-number] [increment]
+>\> java Project5 [input-file] [start-number] [increment]
 
 >\> java Project5 test1.BAS 11 7
 
