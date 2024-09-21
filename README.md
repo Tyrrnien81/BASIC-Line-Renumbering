@@ -1,4 +1,4 @@
-# BASIC-Line-Renumbering
+# BASIC Line Renumbering
 Overview
 --------------------------------------------------------------------
 The BASIC Line Renumbering Utility is a Java program designed to renumber the lines of a valid BASIC program. The program accepts an input BASIC file and updates the line numbers based on a specified starting number and increment value. This utility ensures that the line numbers are renumbered sequentially and sorted in ascending order, while maintaining the integrity of GOTO, THEN, and GOSUB statements.
